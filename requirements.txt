@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+arch
+joblib
+# required for the LSTM; skip it with --no-lstm
+tensorflow
