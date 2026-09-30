@@ -1,0 +1,18 @@
+# Raw price data (~70MB) - not redistributed; see README
+*.csv
+*.zip
+Bitcoin 18-26/
+# Course-provided / reference material
+Bitcoin_Project_Coding_Instruction_Manual.pdf
+*.mp3
+.ipynb_checkpoints/
+__pycache__/
+outputs/
+predictions/
+# Docs kept locally, not published
+Bitcoin_Volatility_Project_Outline.pdf
+bitcoin_volatility_pipeline.svg
+*.docx
+!results/*.csv
+data/
+/bitcoin_volatility_forecasting.ipynb
